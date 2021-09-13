@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package game;
+package gamegrid;
 
 /**
  *
  * @author cstuser
  */
-public class Game {
+public class GameGrid {
 
     /**
      * @param args the command line arguments
